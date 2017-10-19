@@ -1,0 +1,9 @@
+{
+  "path": "/standorte-urdorf-intro/standorte-urdorf-intro-text",
+  "type": "Text",
+  "data": {
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>Die Kinderkrippe ist in einem heimeligen Holzbau untergebracht, welcher ständig und grosszügig unterhalten wird. Neben den vielfältigen und sehr persönlich eingerichteten Gruppenräumen steht eine ganze Anzahl kleinere Räume für individuelle Spiele und Fördermöglichkeiten zur Verfügung.</p>"
+  },
+  "createdAt": "2017-04-05T05:34:20.745Z",
+  "updatedAt": "2017-09-21T13:43:46.823Z"
+}

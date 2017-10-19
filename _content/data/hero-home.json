@@ -1,0 +1,15 @@
+{
+  "path": "/hero-home",
+  "type": "_legacy",
+  "data": {
+    "title": "",
+    "position": {
+      "y": -120,
+      "x": -395
+    },
+    "scale": "1",
+    "src": "[upload B1zMP1hBx.jpeg]"
+  },
+  "createdAt": "2017-04-05T05:34:20.745Z",
+  "updatedAt": "2017-04-05T05:34:20.745Z"
+}

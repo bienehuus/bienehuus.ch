@@ -1,0 +1,9 @@
+{
+  "path": "/standorte-rathausen-intro/standorte-rathausen-intro-text",
+  "type": "Text",
+  "data": {
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>Die schönste Kinderkrippe der Zentralschweiz liegt unmittelbar neben der Reuss in wenigen Minuten von der Seetalstrasse her erreichbar.</p>"
+  },
+  "createdAt": "2017-04-05T05:34:20.745Z",
+  "updatedAt": "2017-09-21T13:44:31.422Z"
+}
