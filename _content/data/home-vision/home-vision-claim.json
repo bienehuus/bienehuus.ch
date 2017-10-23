@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/home-vision/home-vision-claim",
-  "type": "_legacy",
   "data": {
-    "text": "pädagogisches Konzept"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>pädagogisches Konzept"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-04-05T05:34:20.744Z"
+  "updatedAt": "2017-10-23T06:42:54.603Z"
 }
