@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/company-name",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Kinderkrippe Bienehuus"
+    "text": "Kinderkrippe Bienehuus"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2019-01-28T09:09:55.862Z"
+  "updatedAt": "2019-01-28T09:25:08.956Z"
 }
