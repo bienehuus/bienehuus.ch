@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/home-contact/home-contact-claim",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Wir haben noch freie Plätze"
+    "text": "Wir haben noch freie Plätze"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-10-23T06:42:54.541Z"
+  "updatedAt": "2019-01-28T09:25:08.969Z"
 }
