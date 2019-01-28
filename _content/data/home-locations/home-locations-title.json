@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/home-locations/home-locations-title",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Kinderkrippen &amp; Kindergarten"
+    "text": "Kinderkrippen &amp; Kindergarten"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-10-23T06:42:54.109Z"
+  "updatedAt": "2019-01-28T09:25:08.424Z"
 }
