@@ -1,9 +1,9 @@
 {
-  "path": "/standorte-kuesnacht-oeffnungszeiten/standorte-kuesnacht-oeffnungszeiten-text",
   "type": "Text",
+  "path": "/standorte-kuesnacht-oeffnungszeiten/standorte-kuesnacht-oeffnungszeiten-text",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>Montag - Donnerstag 07.00 - 19.00 Uhr <br contenteditable=\"false\">Freitag 07.00 - 18.00 Uhr&nbsp;</p><p><strong>Bis 15.8.2017 gilt:</strong><br contenteditable=\"false\">Im Sommer bleiben unsere Betriebe während zwei Wochen (Wochen 31 und 32) geschlossen. Ebenso zwischen Weihnacht und Neujahr, sowie an den folgenden Fest- und Feiertagen: Karfreitag, Ostermontag, Sechseläuten-Montag, 1. Mai, Auffahrt (Do und Fr.), Pfingstmontag, 1. August, Knabenschiessen-Montag.</p><p><strong>Ab 15.8.2017 gilt:</strong><br contenteditable=\"false\">Das Bienehuus Küsnacht ist nur an den gesetzlichen Feiertagen sowie zwischen Weihnachten und Neujahr geschlossen.</p><p><br></p>"
+    "text": "<p>Montag - Donnerstag 07.00 - 19.00 Uhr <br>Freitag 07.00 - 18.00 Uhr&nbsp;</p><p><strong>Ab 15.8.2017 gilt:</strong><br>Das Bienehuus Küsnacht ist nur an den gesetzlichen Feiertagen sowie zwischen Weihnachten und Neujahr geschlossen.</p><p><br></p>"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-09-21T13:35:55.784Z"
+  "updatedAt": "2019-01-28T09:34:42.873Z"
 }
