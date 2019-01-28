@@ -1,9 +1,9 @@
 {
-  "path": "/angebote",
   "type": "Text",
+  "path": "/angebote",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Spezielle Angebote"
+    "text": "Spezielle Angebote"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-09-21T13:35:56.952Z"
+  "updatedAt": "2019-01-28T09:29:47.935Z"
 }
