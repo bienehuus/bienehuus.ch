@@ -1,9 +1,9 @@
 {
-  "path": "/standorte-urdorf-oeffnungszeiten/standorte-urdorf-oeffnungszeiten-text",
   "type": "Text",
+  "path": "/standorte-urdorf-oeffnungszeiten/standorte-urdorf-oeffnungszeiten-text",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>Montag - Freitag 07.00 - 18.00 Uhr&nbsp;</p><p><strong>Bis 15.8.2017 gilt:<br contenteditable=\"false\"></strong>Im Sommer bleiben unsere Betriebe während zwei Wochen (Wochen 29 und 30) geschlossen. Ebenso zwischen Weihnacht und Neujahr, sowie an den folgenden Fest- und Feiertagen: Karfreitag, Ostermontag, Sechseläuten-Montag, 1. Mai, Auffahrt (Do und Fr.), Pfingstmontag, 1. August, Knabenschiessen-Montag.</p><p><strong>Ab 15.8.2017 gilt:</strong><br contenteditable=\"false\">Das Bienehuus Urdorf ist nur an den gesetzlichen Feiertagen sowie zwischen Weihnachten und Neujahr geschlossen.</p><p><br contenteditable=\"false\"><br></p>"
+    "text": "<p>Montag - Freitag 07.00 - 18.00 Uhr&nbsp;</p><p><strong>Ab 15.8.2017 gilt:</strong><br>Das Bienehuus Urdorf ist nur an den gesetzlichen Feiertagen sowie zwischen Weihnachten und Neujahr geschlossen.</p><p><br><br></p>"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-09-21T13:43:47.119Z"
+  "updatedAt": "2019-01-28T09:29:28.713Z"
 }
