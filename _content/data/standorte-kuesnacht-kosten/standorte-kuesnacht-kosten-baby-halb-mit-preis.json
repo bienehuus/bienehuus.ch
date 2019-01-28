@@ -1,9 +1,9 @@
 {
-  "path": "/standorte-kuesnacht-kosten/standorte-kuesnacht-kosten-baby-halb-mit-preis",
   "type": "Text",
+  "path": "/standorte-kuesnacht-kosten/standorte-kuesnacht-kosten-baby-halb-mit-preis",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>CHF 98"
+    "text": "CHF 98"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-09-21T13:35:56.076Z"
+  "updatedAt": "2019-01-28T09:29:48.485Z"
 }
