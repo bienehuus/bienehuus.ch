@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/home-locations/home-locations-freespot-urdorf",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Einzelne freie Tage<br contenteditable=\"false\"><br>"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Einzelne freie Tage<br contenteditable=\"false\"><br contenteditable=\"false\"><br>"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2019-04-14T18:06:15.526Z"
+  "updatedAt": "2019-04-14T18:08:52.372Z"
 }
