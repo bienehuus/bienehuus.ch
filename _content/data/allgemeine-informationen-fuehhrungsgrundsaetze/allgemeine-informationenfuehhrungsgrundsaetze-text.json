@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/allgemeine-informationen-fuehhrungsgrundsaetze/allgemeine-informationenfuehhrungsgrundsaetze-text",
-  "type": "_legacy",
   "data": {
-    "text": "<p>Wir beachten den Reifegrad jedes Mitarbeiters und geben die nötige Unterstützung.&nbsp;</p><p>Wir ermöglichen Kooperation und leben einen partnerschaftlichen Austausch auf allen Ebenen.&nbsp;</p><p>Wir achten auf Unter- und Überforderung und fördern unsere Mitarbeiter entsprechend ihren Fähigkeiten.</p><p>Durch regelmässiges Feedback schenken wir Anerkennung und Wertschätzung, damit ermöglichen wir Stabilität und Sicherheit.</p><p>Wir geben Raum für Neues und begleiten Entwicklungen.&nbsp;</p>"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>Wir beachten den Reifegrad jedes Mitarbeiters und geben die nötige Unterstützung.&nbsp;</p><p>Wir ermöglichen Kooperation und leben einen partnerschaftlichen Austausch auf allen Ebenen.&nbsp;</p><p>Wir achten auf Unter- und Überforderung und fördern unsere Mitarbeiter entsprechend ihren Fähigkeiten.</p><p>Durch regelmässiges Feedback schenken wir Anerkennung und Wertschätzung, damit ermöglichen wir Stabilität und Sicherheit.</p><p>Wir geben Raum für Neues und begleiten Entwicklungen.&nbsp;</p>"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-04-05T05:34:20.744Z"
+  "updatedAt": "2019-04-14T18:09:24.693Z"
 }

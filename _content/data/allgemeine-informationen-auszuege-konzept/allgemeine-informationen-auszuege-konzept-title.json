@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/allgemeine-informationen-auszuege-konzept/allgemeine-informationen-auszuege-konzept-title",
-  "type": "_legacy",
   "data": {
-    "text": "Auszüge Konzept"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Auszüge Konzept"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-04-05T05:34:20.744Z"
+  "updatedAt": "2019-04-14T18:09:24.663Z"
 }
