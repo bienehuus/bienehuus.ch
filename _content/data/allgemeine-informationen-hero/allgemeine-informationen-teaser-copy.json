@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/allgemeine-informationen-hero/allgemeine-informationen-teaser-copy",
-  "type": "_legacy",
   "data": {
-    "text": "Wir bieten persönliche Betreuung, individuelle Förderung, tägliche Aktivitäten, spannende Bildungsprojekte, ansprechende Bewegungsangebote."
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Wir bieten persönliche Betreuung, individuelle Förderung, tägliche Aktivitäten, spannende Bildungsprojekte, ansprechende Bewegungsangebote."
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-04-05T05:34:20.744Z"
+  "updatedAt": "2019-04-14T18:09:24.658Z"
 }
