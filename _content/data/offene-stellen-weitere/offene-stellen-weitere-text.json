@@ -1,9 +1,9 @@
 {
-  "path": "/offene-stellen-weitere/offene-stellen-weitere-text",
   "type": "Text",
+  "path": "/offene-stellen-weitere/offene-stellen-weitere-text",
   "data": {
-    "text": "<p><a href=\"https://krippenstellen.ch/de/frontend/inserate/20955\">Kinderkrippe Bienehuus Zollikon, Gruppenleitung (80%)</a></p><p><a href=\"https://krippenstellen.ch/de/frontend/inserate/21215\">Kinderkrippe Bienehuus Assistentin Geschäftsleitung</a></p><p><br></p>"
+    "text": "<p>Momentan haben wir keine offenen Stellen.</p><p><br></p>"
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2017-06-22T12:18:36.760Z"
+  "updatedAt": "2019-04-15T06:45:57.160Z"
 }
