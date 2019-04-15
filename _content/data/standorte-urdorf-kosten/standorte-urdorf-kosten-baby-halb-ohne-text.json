@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/standorte-urdorf-kosten/standorte-urdorf-kosten-baby-halb-ohne-text",
   "data": {
-    "text": "Halbtages Betreuung ohne Mittagessen"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Halbtages Betreuung ohne Mittagessen"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2019-01-28T09:29:20.443Z"
+  "updatedAt": "2019-04-15T10:40:19.897Z"
 }
