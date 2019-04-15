@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/home-hero/home-hero-copy",
   "data": {
-    "text": "Nicht das Kind soll sich der Umgebung anpassen. Sondern wir sollten die Umgebung dem Kind anpassen."
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Nicht das Kind soll sich der Umgebung anpassen. Sondern wir sollten die Umgebung dem Kind anpassen."
   },
   "createdAt": "2017-04-05T05:34:20.744Z",
-  "updatedAt": "2019-04-14T18:08:56.381Z"
+  "updatedAt": "2019-04-15T06:40:52.893Z"
 }
