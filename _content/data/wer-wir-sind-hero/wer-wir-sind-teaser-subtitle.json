@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/wer-wir-sind-hero/wer-wir-sind-teaser-subtitle",
-  "type": "_legacy",
   "data": {
-    "text": "Wer wir sind"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Wer wir sind"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-04-05T05:34:20.745Z"
+  "updatedAt": "2019-04-16T06:08:42.669Z"
 }
