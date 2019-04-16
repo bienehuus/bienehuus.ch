@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/wer-wir-sind-bewilligungen/wer-wir-sind-bewilligungen-title",
-  "type": "_legacy",
   "data": {
-    "text": "Bewilligungen / Aufsicht"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Bewilligungen / Aufsicht"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-04-05T05:34:20.745Z"
+  "updatedAt": "2019-04-16T06:08:42.705Z"
 }

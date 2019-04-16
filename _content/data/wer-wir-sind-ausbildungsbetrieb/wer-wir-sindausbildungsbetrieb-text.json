@@ -1,9 +1,9 @@
 {
+  "type": "Text",
   "path": "/wer-wir-sind-ausbildungsbetrieb/wer-wir-sindausbildungsbetrieb-text",
-  "type": "_legacy",
   "data": {
-    "text": "<p>In unseren Krippen bilden wir engagiert und mit Herz Lernende zu Fachfrau / Fachmann Betreuung im Kinderbereich aus. Somit prägen wir einen kleinen Zukunftsteil der Krippenwelt aktiv mit. Die Ausbildung ist uns sehr wichtig und wir stellen dazu viel Zeit zur Verfügung. Jedes Jahr freuen wir uns mit, wenn unsere Lernende die Lehre erfolgreich abschliessen.</p>"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>In unseren Krippen bilden wir engagiert und mit Herz Lernende zu Fachfrau / Fachmann Betreuung im Kinderbereich aus. Somit prägen wir einen kleinen Zukunftsteil der Krippenwelt aktiv mit. Die Ausbildung ist uns sehr wichtig und wir stellen dazu viel Zeit zur Verfügung. Jedes Jahr freuen wir uns mit, wenn unsere Lernende die Lehre erfolgreich abschliessen.</p>"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2017-04-05T05:34:20.745Z"
+  "updatedAt": "2019-04-16T06:08:42.703Z"
 }
