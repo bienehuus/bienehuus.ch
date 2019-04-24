@@ -2,8 +2,8 @@
   "type": "Text",
   "path": "/standorte-kuesnacht-text/standorte-urdorf-text-uber",
   "data": {
-    "text": "<p>Die Krippe ist von einem grosszügigen Park umgeben, welcher mit einem alten Baumbestand und vielen Spielgeräten zum Entdecken einlädt. Die Kinderkrippe Bienehuus befindet sich an der Schulstrasse 38 in Urdorf. Die Zufahrt ist sowohl mit dem Auto, als auch mit öffentlichen Verkehrsmitteln optimal möglich.</p>"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style><p>Die Krippe ist von einem grosszügigen Park umgeben, welcher mit einem alten Baumbestand und vielen Spielgeräten zum Entdecken einlädt. Die Kinderkrippe Bienehuus befindet sich an der Schulstrasse 38 in Urdorf. Die Zufahrt ist sowohl mit dem Auto, als auch mit öffentlichen Verkehrsmitteln optimal möglich.</p>"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
-  "updatedAt": "2019-04-16T06:53:14.714Z"
+  "updatedAt": "2019-04-24T08:02:22.221Z"
 }
