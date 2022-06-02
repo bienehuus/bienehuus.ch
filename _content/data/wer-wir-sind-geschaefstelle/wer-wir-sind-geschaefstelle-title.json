@@ -2,7 +2,7 @@
   "type": "Text",
   "path": "/wer-wir-sind-geschaefstelle/wer-wir-sind-geschaefstelle-title",
   "data": {
-    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Geschäfstelle"
+    "text": "<style contenteditable=\"false\" class=\"ProseMirror-widget\">simpla-text p,simpla-text h1,simpla-text h2{ white-space: pre-wrap; }</style>Geschäftsstelle"
   },
   "createdAt": "2017-04-05T05:34:20.745Z",
   "updatedAt": "2019-04-16T06:08:42.690Z"
